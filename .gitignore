@@ -85,3 +85,6 @@ RemoteSystemsTempFiles
 
 # ignore ccache storage
 .ccache
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
